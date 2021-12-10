@@ -1,0 +1,1 @@
+./Minecraft/usr/bin/minecraft-launcher
