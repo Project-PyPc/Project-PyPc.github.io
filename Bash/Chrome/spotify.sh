@@ -1,0 +1,1 @@
+chromium-browser --no-sandbox 'https://open.spotify.com'
