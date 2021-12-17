@@ -1,0 +1,1 @@
+chromium-browser --no-sandbox 'https://snap.berkeley.edu/snap/snap.html'

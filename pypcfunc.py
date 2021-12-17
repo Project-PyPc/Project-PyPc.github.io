@@ -19,7 +19,22 @@ def app6():
   os.system('python pypc-main.py')
 
 def app7():
-  os.system('html /Html_Apps/Snapinator/Snapinator.html')
+  os.system('bash snapinator.sh')
 
 def app8():
+  os.system('bash gmaildir.sh')
+
+def app9():
+  os.system('bash spotifydir.sh')
+
+def app10():
+  os.system('bash scratchdir.sh')
+
+def app11():
+  os.system('bash snapdir.sh')
+
+def app12():
+  os.system('bash psdir.sh')
+
+def app13():
   os.system('')

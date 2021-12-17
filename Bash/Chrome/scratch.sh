@@ -1,0 +1,1 @@
+chromium-browser --no-sandbox 'scratch.mit.edu'

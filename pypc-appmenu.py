@@ -36,6 +36,13 @@ class A:
 
         self.popup_menu.add_command(label = "Snapinator", command = pypcfunc.app7)
     
+        self.popup_menu.add_command(label = "Gmail", command = pypcfunc.app8)
+
+        self.popup_menu.add_command(label = "Spotfy", command = pypcfunc.app9)
+        
+        self.popup_menu.add_command(label = "Scratch", command = pypcfunc.app10)
+        
+        self.popup_menu.add_command(lael = "Snap!", command = pypcfunc.app11)
     #display menu on right click
     def do_popup(self,event):
         try:
