@@ -42,7 +42,8 @@ class A:
         
         self.popup_menu.add_command(label = "Scratch", command = pypcfunc.app10)
         
-        self.popup_menu.add_command(lael = "Snap!", command = pypcfunc.app11)
+        self.popup_menu.add_command(label = "Snap", command = pypcfunc.app11)
+        
     #display menu on right click
     def do_popup(self,event):
         try:

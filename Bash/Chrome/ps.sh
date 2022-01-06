@@ -1,1 +1,1 @@
-chromium-browser --no-sandbox 'https://www.photopea.com/'
+chromium-browser --no-sandbox 'https://www.photopea.com'
