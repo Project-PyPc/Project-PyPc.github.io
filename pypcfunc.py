@@ -37,4 +37,4 @@ def app12():
   os.system('bash psdir.sh')
 
 def app13():
-  os.system('')
+  os.system('python pypc-calc.py')

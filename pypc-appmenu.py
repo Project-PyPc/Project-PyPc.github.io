@@ -44,6 +44,10 @@ class A:
         
         self.popup_menu.add_command(label = "Snap", command = pypcfunc.app11)
         
+        self.popup_menu.add_command(label = "Photopea", command = pypcfunc.app12)
+
+        self.popup_menu.add_command(label = "Calculator", command = pypcfunc.app13)
+
     #display menu on right click
     def do_popup(self,event):
         try:
